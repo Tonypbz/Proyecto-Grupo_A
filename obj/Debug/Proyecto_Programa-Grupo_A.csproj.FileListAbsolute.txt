@@ -1,0 +1,11 @@
+C:\Users\Tony\source\repos\Proyecto_Programa-Grupo_A\bin\Debug\Proyecto_Programa-Grupo_A.exe.config
+C:\Users\Tony\source\repos\Proyecto_Programa-Grupo_A\bin\Debug\Proyecto_Programa-Grupo_A.exe
+C:\Users\Tony\source\repos\Proyecto_Programa-Grupo_A\bin\Debug\Proyecto_Programa-Grupo_A.pdb
+C:\Users\Tony\source\repos\Proyecto_Programa-Grupo_A\obj\Debug\Proyecto_Programa-Grupo_A.csproj.AssemblyReference.cache
+C:\Users\Tony\source\repos\Proyecto_Programa-Grupo_A\obj\Debug\Proyecto_Programa_Grupo_A.Form1.resources
+C:\Users\Tony\source\repos\Proyecto_Programa-Grupo_A\obj\Debug\Proyecto_Programa_Grupo_A.Form2.resources
+C:\Users\Tony\source\repos\Proyecto_Programa-Grupo_A\obj\Debug\Proyecto_Programa_Grupo_A.Properties.Resources.resources
+C:\Users\Tony\source\repos\Proyecto_Programa-Grupo_A\obj\Debug\Proyecto_Programa-Grupo_A.csproj.GenerateResource.cache
+C:\Users\Tony\source\repos\Proyecto_Programa-Grupo_A\obj\Debug\Proyecto_Programa-Grupo_A.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\Proyecto_Programa-Grupo_A\obj\Debug\Proyecto_Programa-Grupo_A.exe
+C:\Users\Tony\source\repos\Proyecto_Programa-Grupo_A\obj\Debug\Proyecto_Programa-Grupo_A.pdb
